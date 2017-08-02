@@ -82,7 +82,7 @@ Array
     [goods_sort] => 
     [new_cover_design] => {"photo_src":"https:\/\/productimg.frilly.com\/12\/1200_1800\/c3231772a990c0b0f46afea3cde36dba.jpg","style_id":"204848","md5":"c3231772a990c0b0f46afea3cde36dba"}
     [dis_min_price] => 608
-    [dis_max_price] => 1690
+    [dis_max_price] => 169000000000
 )
 
 
